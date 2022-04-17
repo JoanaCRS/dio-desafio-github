@@ -1,2 +1,2 @@
 # Desafio Github da Dio
-### Esse diretório é voltado para a resolução do desafio prático em Github.
+### Esse repositório é voltado para a resolução do desafio de projeto em Git/Github.
